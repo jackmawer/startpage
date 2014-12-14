@@ -1,4 +1,4 @@
 git add --all .
 echo Commit message?
-git commit -m "`read commitmsg && echo $commitmsg`"
-git push origin master
+git commit -a -m "`read commitmsg && echo $commitmsg`"
+git push origin gh-pages
