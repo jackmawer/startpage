@@ -26,11 +26,14 @@
 
 
 <div class="body-frame">
-  <div class="arrow-box" style="text-align: center; background-color: lightgrey;">
+  <div class="arrow-box" style="text-align: center;">
+     Version 1.0
+<!--
     <h3>Quick Links</h3>
     <h5><a href="http://mawersoft.co.uk">Jack Mawer</a></h5>
     <h5><a href="http://chat.stackoverflow.com/rooms/22091/teenage-programmers-chatroom">Teenage Programmers Chatroom</a></h5>
     <h5><a href="http://www.stackoverflow.com/">Stack Overflow</a></h5>
+-->
   </div>
 </div>
 
