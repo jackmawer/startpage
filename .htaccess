@@ -1,0 +1,5 @@
+ErrorDocument 404 http://mawersoft.co.uk/fourohfour.html 
+ErrorDocument 403 http://mawersoft.co.uk/fourohthree.html
+  
+Order Allow,Deny
+Allow from all

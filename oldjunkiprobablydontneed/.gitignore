@@ -1,0 +1,6 @@
+/jquery/
+/node_modules/
+/src/jquery.custom.min.js
+/test/index.html
+dist
+build
